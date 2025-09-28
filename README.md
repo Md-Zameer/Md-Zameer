@@ -9,10 +9,3 @@
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/md-zameer-80063b282" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/md-zameer-80063b282" height="30" width="40" /></a>
 </p>
-## Hi there 👋
-
-<!--
-**Md-Zameer/Md-Zameer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
--->
