@@ -3,9 +3,7 @@
 <br>
 
 <h3 align="center">
-A graduate student with strong interest in development and labour economics.  
-I have a strong foundation in applied econometrics, proficiency in STATA and R.  
-I am looking for RA positions in Development Economics.
+A Research Associate working currently working with Jean Dreze across different subjects like food security, MGNREGA, Education and other. I have strong interest in development and labor economics, strong foundation in applied econometrics and proficiency in STATA and R.  
 </h3>
 
 ---
