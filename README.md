@@ -3,7 +3,7 @@
 <br>
 
 <h3 align="center">
-A Research Associate working currently working with Jean Dreze across different subjects like food security, MGNREGA, Education and other. I have strong interest in development and labor economics, strong foundation in applied econometrics and proficiency in STATA and R.  
+A Research Associate currently working with Jean Dreze across different subjects like food security, MGNREGA, Education and other. I have strong interest in development and labor economics, strong foundation in applied econometrics and proficiency in STATA and R.  
 </h3>
 
 ---
