@@ -2,13 +2,13 @@
 
 ### Independent Researcher | Development & Labour Economics
 
-I work with **Jean Drèze** on research spanning **food security, MGNREGA, education, employment, and social protection**.
+Currently working with **Jean Drèze** on diverse subjects like **food security, MGNREGA, education, employment, and social protection**.
 
 My interests lie at the intersection of **development and labour economics**, with a focus on using **data, applied econometrics, and field evidence** to understand real-world economic and social issues.
 
 ### 🔍 Research Interests
 
-**Development Economics** · **Labour & Employment** · **Food Security** · **Education** · **Social Protection** · **Public Policy**
+**Development Economics** · **Labour & Employment** · **Education** · **Social Protection** · **Public Policy**
 
 ### 🛠️ Tools
 
@@ -19,7 +19,6 @@ My interests lie at the intersection of **development and labour economics**, wi
 * Data analysis & visualisation
 * Applied econometric analysis
 * Policy research & evaluation
-* Large-scale survey data management
 * Field-based research
 
 ### 📂 On This GitHub
@@ -28,4 +27,10 @@ Research projects, **Stata/R code, data workflows, analysis, and reproducible re
 
 > **Data → Evidence → Insight → Policy**
 
-Thanks for stopping by! ⭐
+### 🤝 Connect
+
+📧 **Email:** [your.email@example.com](mailto:your.email@example.com)
+💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)
+
+Feel free to connect or reach out for **research collaborations, ideas, or discussions**.
+
