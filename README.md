@@ -3,8 +3,6 @@
 <br>
 
 <h3 align="center">
-# Hi, I'm Mohammad Zameer 👋
-
 I'm an **Independent Researcher** working with **Jean Drèze** on a range of development and public policy issues, including **food security, MGNREGA, education, social protection, and employment**.
 
 My broader research interests lie in **Development Economics and Labour Economics**, with a particular interest in using data and applied econometric methods to investigate real-world economic and social problems.
