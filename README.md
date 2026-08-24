@@ -29,7 +29,7 @@ Research projects, **Stata/R code, data workflows, analysis, and reproducible re
 
 ### 🤝 Connect
 
-📧 **Email:** [your.email@example.com](mailto:your.email@example.com)
+📧 **Email:** [mdzameer2122@gmail.com](mailto:your.email@example.com)
 💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)
 
 Feel free to connect or reach out for **research collaborations, ideas, or discussions**.
