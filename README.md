@@ -29,8 +29,13 @@ Research projects, **Stata/R code, data workflows, analysis, and reproducible re
 
 ### 🤝 Connect
 
-📧 **Email:** [mdzameer2122@gmail.com]
-💼 **LinkedIn:** [md-zameer-80063b282]
+### 🤝 Connect
+
+📧 **Email:** [mdzameer2122@gmail.com](mailto:your.email@example.com)
+💼 **LinkedIn:** [Md.Zameer](https://www.linkedin.com/in/md-zameer-80063b282/)
+
+Feel free to connect for **research collaborations, ideas, or discussions**.
+
 
 Feel free to connect or reach out for **research collaborations, ideas, or discussions**.
 
