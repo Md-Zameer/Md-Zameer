@@ -3,12 +3,36 @@
 <br>
 
 <h3 align="center">
-A Research Associate currently working with Jean Dreze across different subjects like food security, MGNREGA, Education and other. I have strong interest in development and labor economics, strong foundation in applied econometrics and proficiency in STATA and R.  
+# Hi, I'm Mohammad Zameer 👋
+
+I'm an **Independent Researcher** working with **Jean Drèze** on a range of development and public policy issues, including **food security, MGNREGA, education, social protection, and employment**.
+
+My broader research interests lie in **Development Economics and Labour Economics**, with a particular interest in using data and applied econometric methods to investigate real-world economic and social problems.
+
+### 🔍 Research Interests
+
+* Development Economics
+* Labour & Employment
+* Food Security & Social Protection
+* Education
+* Public Policy
+* Agricultural & Rural Economics
+
+### 🛠️ Tools & Methods
+
+* **Stata** — Applied econometrics, data management & statistical analysis
+* **R** — Data analysis & visualisation
+* **Excel & Power BI** — Data management and visualisation
+* **LaTeX & GitHub** — Research writing and reproducible workflows
+* Applied Econometrics | Causal Inference | Policy Analysis
+
+I enjoy working at the intersection of **data, field realities, and public policy**, and am particularly interested in research that can contribute to a better understanding of development challenges and inform meaningful policy interventions.
+
+> **Turning data into evidence, and evidence into better policy.**
+  
 </h3>
 
 ---
-
-- 🌱 I’m currently learning **Data analysis for social science**  
 - 📫 How to reach me: **mdzameer2122@gmail.com**
 
 ---
